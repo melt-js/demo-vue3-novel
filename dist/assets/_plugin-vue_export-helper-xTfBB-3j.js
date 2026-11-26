@@ -1,0 +1,1 @@
+import{e as n}from"./index-Ccx71CxD.js";const c="comps-vue3-novel",t=n.exposeLib(c),i=t.NovelChapterTree,p=t.NovelChapterEditor,l=t.NovelSaveIndicator,N=t.NovelEntityCard,d=t.NovelWritingStats,_=t.App,C=(o,s)=>{const e=o.__vccOpts||o;for(const[r,a]of s)e[r]=a;return e};export{_ as A,i as N,C as _,p as a,l as b,N as c,d};

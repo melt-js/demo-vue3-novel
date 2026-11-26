@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-xTfBB-3j.js";import{f as r,A as s,o as t}from"./index-Ccx71CxD.js";const c={},a={class:"demo-preview","data-demo-preview":""};function n(e,_){return t(),r("div",a,[s(e.$slots,"default")])}const m=o(c,[["render",n]]);export{m as D};
